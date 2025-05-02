@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AkshatBhatt/OneDrive%20-%20statxo.com/Desktop/Statxo/Deployment%20Manifold/my_experiments/working_with_ml_flow/mlruns/254775447849121884/f00e81e770fa40119b1ef08d66dbb97b/artifacts
+end_time: 1746161124068
+entry_point_name: ''
+experiment_id: '254775447849121884'
+lifecycle_stage: active
+run_id: f00e81e770fa40119b1ef08d66dbb97b
+run_name: abrasive-hog-566
+run_uuid: f00e81e770fa40119b1ef08d66dbb97b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746161109179
+status: 3
+tags: []
+user_id: AkshatBhatt

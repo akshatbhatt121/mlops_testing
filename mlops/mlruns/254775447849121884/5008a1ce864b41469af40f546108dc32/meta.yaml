@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AkshatBhatt/OneDrive%20-%20statxo.com/Desktop/Statxo/Deployment%20Manifold/my_experiments/working_with_ml_flow/mlruns/254775447849121884/5008a1ce864b41469af40f546108dc32/artifacts
+end_time: 1746116241779
+entry_point_name: ''
+experiment_id: '254775447849121884'
+lifecycle_stage: active
+run_id: 5008a1ce864b41469af40f546108dc32
+run_name: suave-kit-283
+run_uuid: 5008a1ce864b41469af40f546108dc32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746116206361
+status: 3
+tags: []
+user_id: AkshatBhatt
