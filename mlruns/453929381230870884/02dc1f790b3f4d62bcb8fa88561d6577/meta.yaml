@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AkshatBhatt/OneDrive%20-%20statxo.com/Desktop/Statxo/Deployment%20Manifold/my_experiments/working_with_ml_flow/mlruns/453929381230870884/02dc1f790b3f4d62bcb8fa88561d6577/artifacts
+end_time: 1746167233087
+entry_point_name: ''
+experiment_id: '453929381230870884'
+lifecycle_stage: active
+run_id: 02dc1f790b3f4d62bcb8fa88561d6577
+run_name: clean-chimp-265
+run_uuid: 02dc1f790b3f4d62bcb8fa88561d6577
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746167225899
+status: 3
+tags: []
+user_id: AkshatBhatt
