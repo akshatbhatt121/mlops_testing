@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AkshatBhatt/OneDrive%20-%20statxo.com/Desktop/Statxo/Deployment%20Manifold/my_experiments/working_with_ml_flow/mlruns/453929381230870884/41cacd0a62d84345be8a9f0fd965950d/artifacts
+end_time: 1746167219403
+entry_point_name: ''
+experiment_id: '453929381230870884'
+lifecycle_stage: active
+run_id: 41cacd0a62d84345be8a9f0fd965950d
+run_name: charming-sponge-463
+run_uuid: 41cacd0a62d84345be8a9f0fd965950d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746167196574
+status: 3
+tags: []
+user_id: AkshatBhatt

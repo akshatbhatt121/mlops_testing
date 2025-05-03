@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AkshatBhatt/OneDrive%20-%20statxo.com/Desktop/Statxo/Deployment%20Manifold/my_experiments/working_with_ml_flow/mlruns/453929381230870884/aebb962baa354b1ba7eda50560298cdd/artifacts
+end_time: 1746172008967
+entry_point_name: ''
+experiment_id: '453929381230870884'
+lifecycle_stage: active
+run_id: aebb962baa354b1ba7eda50560298cdd
+run_name: gaudy-shrimp-545
+run_uuid: aebb962baa354b1ba7eda50560298cdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746172002262
+status: 3
+tags: []
+user_id: AkshatBhatt
