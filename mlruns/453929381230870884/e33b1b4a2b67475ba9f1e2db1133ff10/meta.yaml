@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AkshatBhatt/OneDrive%20-%20statxo.com/Desktop/Statxo/Deployment%20Manifold/my_experiments/working_with_ml_flow/mlruns/453929381230870884/e33b1b4a2b67475ba9f1e2db1133ff10/artifacts
+end_time: 1746257123239
+entry_point_name: ''
+experiment_id: '453929381230870884'
+lifecycle_stage: active
+run_id: e33b1b4a2b67475ba9f1e2db1133ff10
+run_name: youthful-carp-868
+run_uuid: e33b1b4a2b67475ba9f1e2db1133ff10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746257002042
+status: 3
+tags: []
+user_id: AkshatBhatt

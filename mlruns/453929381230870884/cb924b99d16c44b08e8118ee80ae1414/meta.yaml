@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AkshatBhatt/OneDrive%20-%20statxo.com/Desktop/Statxo/Deployment%20Manifold/my_experiments/working_with_ml_flow/mlruns/453929381230870884/cb924b99d16c44b08e8118ee80ae1414/artifacts
+end_time: 1746426636157
+entry_point_name: ''
+experiment_id: '453929381230870884'
+lifecycle_stage: active
+run_id: cb924b99d16c44b08e8118ee80ae1414
+run_name: persistent-hog-809
+run_uuid: cb924b99d16c44b08e8118ee80ae1414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746426628731
+status: 3
+tags: []
+user_id: AkshatBhatt

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AkshatBhatt/OneDrive%20-%20statxo.com/Desktop/Statxo/Deployment%20Manifold/my_experiments/working_with_ml_flow/mlruns/453929381230870884/935edea769984f1db4f0dd61df73f082/artifacts
+end_time: 1746256687145
+entry_point_name: ''
+experiment_id: '453929381230870884'
+lifecycle_stage: active
+run_id: 935edea769984f1db4f0dd61df73f082
+run_name: placid-cod-677
+run_uuid: 935edea769984f1db4f0dd61df73f082
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746256681265
+status: 3
+tags: []
+user_id: AkshatBhatt
